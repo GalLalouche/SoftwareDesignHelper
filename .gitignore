@@ -1,0 +1,7 @@
+QuickMain.scala
+target/**
+*.iml
+project/**
+*.jar
+.idea/**
+sbt.sh
